@@ -1,0 +1,16 @@
+<svg width="50" height="50" viewBox="0 0 50 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="5" y="7" width="39.8138" height="36.5592" rx="4.13125" stroke="#936BB2" stroke-width="3.5"/>
+<rect x="12" y="11" width="26" height="12" rx="2" stroke="#936BB2" stroke-width="3"/>
+<mask id="path-3-inside-1_6721_5072" fill="white">
+<rect x="12" y="26" width="26" height="4" rx="0.82625"/>
+</mask>
+<rect x="12" y="26" width="26" height="4" rx="0.82625" fill="#936BB2" stroke="#936BB2" stroke-width="3.00447" mask="url(#path-3-inside-1_6721_5072)"/>
+<mask id="path-4-inside-2_6721_5072" fill="white">
+<rect x="12" y="31" width="26" height="4" rx="0.82625"/>
+</mask>
+<rect x="12" y="31" width="26" height="4" rx="0.82625" fill="#936BB2" stroke="#936BB2" stroke-width="3.00447" mask="url(#path-4-inside-2_6721_5072)"/>
+<mask id="path-5-inside-3_6721_5072" fill="white">
+<rect x="12" y="36" width="26" height="4" rx="0.82625"/>
+</mask>
+<rect x="12" y="36" width="26" height="4" rx="0.82625" fill="#936BB2" stroke="#936BB2" stroke-width="3.00447" mask="url(#path-5-inside-3_6721_5072)"/>
+</svg>
